@@ -8,7 +8,6 @@ Transforms Beta 1.7.3 into a perpetual winter. Adds constant snowfall to all ove
 ## Compatibility
 
 - **Minecraft Version:** Beta 1.7.3 (client only)
-- **Known Mod Compatibility:** Optifine 
 
 ## Screenshots
 ![](screenshots/v1.0_gargamel_0.png)

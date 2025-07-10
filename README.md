@@ -1,6 +1,6 @@
 # AlphaWinters
 
-Transforms Beta 1.7.3 into a perpetual winter. Adds constant snowfall to all overworld biomes, recreating the winter mode from Alpha.
+Adds constant snowfall to all overworld biomes, recreating the winter mode from Alpha.
 
 - **Constant snowfall** in all overworld biomes
 - **WORLD DAMAGE WARNING** Please backup your world before using. This mod disables rain, and enables constant snowing in all biomes. Water may freeze if no light source nearby, potentially causing damage to your world.

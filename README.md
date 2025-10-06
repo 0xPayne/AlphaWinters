@@ -33,5 +33,4 @@ Adds constant snowfall to all overworld biomes, recreating the winter mode from 
 ## Support
 
 If you encounter any issues or have suggestions, please open an issue on this repository.
-Or feel free to email me at joshpaynedev@gmail.com
 

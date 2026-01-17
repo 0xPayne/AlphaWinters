@@ -1,6 +1,6 @@
 # AlphaWinters
 
-Adds constant snowfall to all overworld biomes, recreating the winter mode from Alpha.
+Adds constant snowfall to all overworld biomes, recreating the winter mode from Alpha. Now over 200 downloads... Thank you!
 
 - **Constant snowfall** in all overworld biomes
 - **WORLD DAMAGE WARNING** Please backup your world before using. This mod disables rain, and enables constant snowing in all biomes. Water may freeze if no light source nearby, potentially causing damage to your world.

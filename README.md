@@ -32,5 +32,7 @@ Adds constant snowfall to all overworld biomes, recreating the winter mode from 
 
 ## Support
 
+Modrinth: [Link](https://modrinth.com/mod/alphawinters)
+
 If you encounter any issues or have suggestions, please open an issue on this repository.
 
